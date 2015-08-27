@@ -1,0 +1,8 @@
+.rectangle{
+    height: 10px;
+    width: 20px;
+    border: 1px solid black;
+}
+.cen{
+    text-align: center;
+}
